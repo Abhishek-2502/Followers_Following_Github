@@ -1,6 +1,6 @@
 # GitHub Followers & Following Fetcher
 
-Welcome to the **GitHub Followers & Following Fetcher**! This script allows you to retrieve and display the followers and followings of any GitHub user, as well as perform additional operations such as identifying users that a GitHub account follows but who do not follow back, and users who are mutually following each other.
+Welcome to the **GitHub Followers & Following Fetcher**! This project allows you to retrieve and display the followers and followings of any GitHub user, as well as perform additional operations such as identifying users that a GitHub account follows but who do not follow back, and users who are mutually following each other.
 
 ## Table of Contents
 
