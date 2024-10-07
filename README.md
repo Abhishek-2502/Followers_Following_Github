@@ -7,7 +7,6 @@ Welcome to the **GitHub Followers & Following Fetcher**! This script allows you 
 - [Getting Started](#getting-started)
 - [Features](#features)
 - [Usage](#usage)
-- [Examples](#examples)
 - [Author](#author)
 
 ## Getting Started
